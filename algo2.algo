@@ -1,0 +1,15 @@
+ALGORITHM algorithm_name
+VAR
+    sen : STRING;
+    num : INTEGER;
+    vow : INTEGER;
+BEGIN
+    sen := " hello world. "
+    i=0 , i =< sen.lenght;
+    write(i);
+    
+    tab1 := [a,e,u,o,i,y];
+    if sen := tab1;
+    count(vow);
+    write(vow);
+END
